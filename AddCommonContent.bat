@@ -1,0 +1,1 @@
+mklink /J "Content/CommonContent" "../CommonContent/Content/CommonContent"
